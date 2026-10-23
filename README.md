@@ -30,6 +30,6 @@ A CNN with three convolution blocks, batch normalization, max pooling, dropout, 
 The model performed strongly on the in-domain Kannada-MNIST test set but showed lower accuracy on Dig-MNIST. The drop occurs because Dig-MNIST contains handwriting from different volunteers and different image-collection conditions, leading to differences in stroke style, shape, thickness, alignment, noise, and image quality.
 
 ## Repository Contents
-- `RA2311026050249_PS41.ipynb` — completed Colab notebook with outputs
+- `RA2311026050045_PS41.ipynb` — completed Colab notebook with outputs
 - `final_results.csv` — accuracy and loss results
 - PNG files — sample images, confusion matrices, accuracy comparison, and incorrect predictions
